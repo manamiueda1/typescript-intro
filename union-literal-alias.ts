@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 // alias type examples
 type Combinable = number | string;
 // alias type with literal type

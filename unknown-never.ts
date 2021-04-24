@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 // unknown type example
 
 let userInput: unknown;
